@@ -1,0 +1,8 @@
+{
+    "baseUrl" : "https://rahulshettyacademy.com",
+    "env": {
+        "url": "https://rahulshettyacademy.com"
+    },
+    "reporter": "mochawesome"
+    
+}
